@@ -25,3 +25,6 @@ ISSUES:
 -------
 I'd included spring security,so you have to log in as a user and provide a password... problem is,
 I don't know the user and password.
+
+The default user is "user", and the password is a random password generated at startup, check the 
+log, e.g. Using default security password: 4d74dc5e-a723-46b9-8550-216c93789c69
